@@ -1,5 +1,5 @@
 [
 null,
-null,
-{"id":2,"expanded":false,"name":"Test Generated Room","order":1,"parentId":0,"scrollX":615,"scrollY":456.5}
+{"id":1,"expanded":false,"name":"MAP001","order":2,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":2,"expanded":true,"name":"Nerve Center","order":1,"parentId":0,"scrollX":1081.6,"scrollY":633.6}
 ]
