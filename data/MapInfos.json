@@ -2,5 +2,5 @@
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":3,"parentId":0,"scrollX":655.2,"scrollY":368.8},
 {"id":2,"expanded":true,"name":"Nerve Center","order":1,"parentId":0,"scrollX":1013,"scrollY":673},
-{"id":3,"expanded":false,"name":"NC_Hall_H 1","order":2,"parentId":2,"scrollX":728,"scrollY":409.77777777777777}
+{"id":3,"expanded":false,"name":"NC_Hall_H 1","order":2,"parentId":2,"scrollX":533,"scrollY":323.5}
 ]
