@@ -1,6 +1,11 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":3,"parentId":0,"scrollX":655.2,"scrollY":368.8},
-{"id":2,"expanded":true,"name":"Nerve Center","order":1,"parentId":0,"scrollX":1013,"scrollY":673},
-{"id":3,"expanded":false,"name":"NC_Hall_H 1","order":2,"parentId":2,"scrollX":533,"scrollY":323.5}
+{"id":1,"expanded":false,"name":"MAP001","order":4,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":2,"expanded":true,"name":"Nerve Center","order":1,"parentId":0,"scrollX":634.6666666666666,"scrollY":302},
+{"id":3,"expanded":true,"name":"NC_Hall2_1","order":2,"parentId":2,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
+{"id":4,"expanded":false,"name":"Test Start Room","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"NC_Hall2_1","order":3,"parentId":2,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":6,"expanded":true,"name":"Eternal Resort","order":6,"parentId":0,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":7,"expanded":true,"name":"ES_LOOP1","order":7,"parentId":6,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":8,"expanded":false,"name":"ES_LOOP2","order":8,"parentId":6,"scrollX":1081.3333333333333,"scrollY":748}
 ]
