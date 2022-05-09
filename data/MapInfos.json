@@ -1,12 +1,16 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Staging Area Testroom","order":2,"parentId":0,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":2,"expanded":true,"name":"Nerve Center Testroom","order":4,"parentId":3,"scrollX":918.5454545454545,"scrollY":576.7272727272727},
-{"id":3,"expanded":true,"name":"Nerve Center","order":3,"parentId":0,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":4,"expanded":false,"name":"Copied Events","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604},
-{"id":5,"expanded":true,"name":"Demo","order":7,"parentId":0,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":6,"expanded":true,"name":"Eternity Resort","order":5,"parentId":0,"scrollX":850.1818181818181,"scrollY":614.5454545454545},
-{"id":7,"expanded":true,"name":"Eternity Resort Testroom","order":6,"parentId":6,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":8,"expanded":false,"name":"Start","order":8,"parentId":5,"scrollX":819,"scrollY":461},
-{"id":9,"expanded":false,"name":"Level1","order":9,"parentId":5,"scrollX":811,"scrollY":461}
+{"id":1,"expanded":false,"name":"COMMON_EVENTS","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":2,"expanded":false,"name":"ENEMY_EVENTS","order":2,"parentId":0,"scrollX":884.7272727272727,"scrollY":494.1818181818182},
+{"id":3,"expanded":false,"name":"TRANSITION_EVENTS","order":3,"parentId":0,"scrollX":884.7272727272727,"scrollY":494.1818181818182},
+{"id":4,"expanded":false,"name":"TREASURE_EVENTS","order":4,"parentId":0,"scrollX":884.7272727272727,"scrollY":494.1818181818182},
+null,
+null,
+null,
+{"id":8,"expanded":false,"name":"GAME","order":5,"parentId":0,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":9,"expanded":true,"name":"1-1 NERVE CENTER","order":7,"parentId":12,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":10,"expanded":false,"name":"1-2 ETERNITY SPA","order":9,"parentId":12,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+null,
+{"id":12,"expanded":true,"name":"L1 Rooms","order":6,"parentId":8,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":13,"expanded":true,"name":"1-1a","order":8,"parentId":9,"scrollX":893.4545454545455,"scrollY":502.90909090909093}
 ]

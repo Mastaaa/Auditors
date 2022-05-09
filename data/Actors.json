@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,4],"faceIndex":0,"faceName":"Actor1","traits":[{"code":51,"dataId":1,"value":1},{"code":52,"dataId":1,"value":1},{"code":52,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":1,"name":"The Archetype","nickname":"Archetype","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[17,0,7],"faceIndex":7,"faceName":"Actor1","traits":[{"code":51,"dataId":3,"value":1},{"code":51,"dataId":4,"value":1},{"code":52,"dataId":2,"value":1},{"code":52,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":1,"name":"The Au Courant","nickname":"Au Courant","note":"","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,0,4],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"The Archetype","nickname":"Archetype","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[1,0,7],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"The Au Courant","nickname":"Au Courant","note":"","profile":""},
 {"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2],"faceIndex":7,"faceName":"Actor3","traits":[{"code":51,"dataId":2,"value":1},{"code":51,"dataId":1,"value":1},{"code":52,"dataId":2,"value":1},{"code":52,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":1,"name":"The Cunning","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":1,"equips":[4,0,2],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":1,"name":"The Willful","nickname":"","note":"","profile":""}
 ]
