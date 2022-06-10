@@ -1,12 +1,13 @@
 [
 null,
-{"id":1,"atypeId":1,"description":"Armor donned by your Facsimiles. \nCannot be removed, but can be Augmented.","etypeId":2,"traits":[],"iconIndex":19,"name":"Silent Conviction","note":"<Augment Slots>\nAMPULE\nSOCKET\n</Augment Slots>","params":[2,0,0,1,0,0,1,1],"price":0},
-{"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"// Fightery Armor //","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":3,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":122,"name":"Prosaic Yoke","note":"<Augment Slots>\nAMPULE\nSOCKET\nSOCKET\n</Augment Slots>","params":[2,0,0,0,0,0,0,0],"price":0},
-{"id":4,"atypeId":1,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":163,"name":"Lurid Yoke","note":"<Augment Slots>\nAMPULE\nAMPULE\nSOCKET\nSOCKET\n</Augment Slots>","params":[2,0,0,1,0,0,-1,0],"price":300},
-{"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"// Castery Armor //","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":1,"atypeId":1,"description":"Armor donned by your Facsimiles. \nCannot be removed, but can be Augmented.","etypeId":2,"traits":[],"iconIndex":81,"name":"Conviction Facsimile","note":"<Augment Slots>\nAMPULE\nSOCKET\n</Augment Slots>","params":[2,0,0,1,0,0,1,1],"price":0},
+{"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":122,"name":"Yoke","note":"<Augment Slots>\nAMPULE\nSOCKET\nSOCKET\n</Augment Slots>","params":[2,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":1,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":163,"name":"Architecture","note":"<Augment Slots>\nAMPULE\nAMPULE\nSOCKET\nSOCKET\n</Augment Slots>","params":[2,0,0,1,0,0,-1,0],"price":300},
+{"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":6,"atypeId":1,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":123,"name":"Arithmetic Architecture","note":"<Augment Slots>\nAMPULE\nAMPULE\nRELAY\n</Augment Slots>","params":[2,2,0,0,0,0,-1,0],"price":300},
 {"id":7,"atypeId":1,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":124,"name":"Logarithmic Architecture","note":"<Augment Slots>\nAMPULE\nRELAY\nSOCKET\n</Augment Slots>","params":[4,4,0,3,0,1,0,0],"price":300},
 {"id":8,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":9,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+{"id":9,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
